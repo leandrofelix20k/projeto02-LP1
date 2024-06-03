@@ -1,4 +1,4 @@
-# Projeto 02 de Linguagem de Programação I 2023.2
+# Projeto 02 - Linguagem de Programação I 2023.2
 
 ---
 
@@ -20,7 +20,7 @@ remova e busque empregados.
 7. Buscar Professores
 8. Buscar Tecnicos Administrativos
 
-## Organizações do Projeto:
+## Organizaçãp do Projeto:
     * main.cpp - Arquivo principal do projeto
     * endereco.cpp - Implementação da classe Endereco
     * pessoa.cpp - Implementação da classe Pessoa
