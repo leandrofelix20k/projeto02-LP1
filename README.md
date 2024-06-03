@@ -34,6 +34,6 @@ remova e busque empregados.
     make compilar
 ### **Executar:**
     make exec
-### **Limpar:**
+### **Limpar terminal:**
     make clear
 
