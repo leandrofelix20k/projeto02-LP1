@@ -1,0 +1,195 @@
+-----------------------
+-----Funcionarios------
+-----------------------
+---Professores---
+Professor N°1
+Nome: Maria do Cerro
+CPF: 546.046.264-60
+Data de Nascimento: 10/05/1999
+Genero: Feminino
+Rua: Rua dos Palmares
+Numero: 56
+Bairro: Novo Perro
+Cidade: Monte Claro
+CEP: 436967-000
+Matricula: 20210074520
+Salario: 7500
+Departamento: IMD
+Carga Horaria: 40
+Data de Ingresso: 30/05/2021
+Nivel: 5
+Formacao: 1
+Disciplina: Pensamento Computacional
+--------------------------------------------------------
+
+Professor N°2
+Nome: João da Silva
+CPF: 512.107.562-23
+Data de Nascimento: 20/08/1995
+Genero: Masculino
+Rua: Rua das Flores
+Numero: 435
+Bairro: Centro
+Cidade: Cidade Nova
+CEP: 435654-000
+Matricula: 20220012345
+Salario: 6000
+Departamento: IMD
+Carga Horaria: 35
+Data de Ingresso: 15/02/2022
+Nivel: 2
+Formacao: 1
+Disciplina: Linguagem de Programação I
+--------------------------------------------------------
+
+Professor N°3
+Nome: Ana Souza
+CPF: 987.654.321-00
+Data de Nascimento: 05/12/1990
+Genero: Feminino
+Rua: Avenida do Bosques
+Numero: 789
+Bairro: Jardim Azul
+Cidade: Natal
+CEP: 047245-000
+Matricula: 20230035837
+Salario: 10000
+Departamento: IMD
+Carga Horaria: 44
+Data de Ingresso: 02/01/2023
+Nivel: 3
+Formacao: 2
+Disciplina: Linguagem de Programação II
+--------------------------------------------------------
+
+Professor N°4
+Nome: Paulo Oliveira
+CPF: 789.643.367-11
+Data de Nascimento: 25/03/1990
+Genero: Masculino
+Rua: Rua das Árvores
+Numero: 30
+Bairro: Bela Vista
+Cidade: Cidade das Águas
+CEP: 123456-000
+Matricula: 20190056789
+Salario: 4200
+Departamento: IMD
+Carga Horaria: 20
+Data de Ingresso: 10/07/2019
+Nivel: 3
+Formacao: 2
+Disciplina: Bando de Dados I
+--------------------------------------------------------
+
+Professor N°5
+Nome: Fernanda Costa
+CPF: 234.567.890-23
+Data de Nascimento: 15/05/1995
+Genero: Feminino
+Rua: Rua dos Girassóis
+Numero: 90
+Bairro: Sol Nascente
+Cidade: Cidade da Primavera
+CEP: 987654-000
+Matricula: 20200098765
+Salario: 3800
+Departamento: IMD
+Carga Horaria: 20
+Data de Ingresso: 20/12/2020
+Nivel: 1
+Formacao: 0
+Disciplina: Banco de Dados II
+--------------------------------------------------------
+
+---Tecnicos Administrativos---
+Tecnico N°1
+Nome: Jõao Silveira
+CPF: 325.435.752-43
+Data de Nascimento: 20/02/2000
+Genero: Masculino
+Rua: Rua dos Bosques
+Numero: 42
+Bairro: Mangues
+Cidade: Natal
+CEP: 345864-000
+Matricula: 20220067308
+Salario: 1900
+Funcao Desempenhada: Tecnico Administrativo
+Departamento: RH
+Carga Horaria: 40
+Data de Ingresso: 15/04/2022
+--------------------------------------------------------
+
+Tecnico N°2
+Nome: Paula Tejo da Silva
+CPF: 078.463.574
+Data de Nascimento: 05/04/1987
+Genero: Feminino
+Rua: São Bento
+Numero: 67
+Bairro: Água Amarela
+Cidade: Natal
+CEP: 436082-000
+Matricula: 20190064829
+Salario: 2200
+Funcao Desempenhada: Tecnico Administrativo
+Departamento: RH
+Carga Horaria: 44
+Data de Ingresso: 20/05/2019
+--------------------------------------------------------
+
+Tecnico N°3
+Nome: Lucas Oliveira
+CPF: 324.436.855-12
+Data de Nascimento: 10/10/1995
+Genero: Masculino
+Rua: Avenida Central
+Numero: 20
+Bairro: Centro
+Cidade: Natal
+CEP: 326523-000
+Matricula: 20221015274
+Salario: 2500
+Funcao Desempenhada: Tecnico Administrativo
+Departamento: RH
+Carga Horaria: 40
+Data de Ingresso: 05/08/2022
+--------------------------------------------------------
+
+Tecnico N°4
+Nome: Mariana Santos
+CPF: 987.654.321-98
+Data de Nascimento: 15/07/1990
+Genero: Feminino
+Rua: Rua das Flores
+Numero: 15
+Bairro: Jardim Primavera
+Cidade: Cidade Velha
+CEP: 987654-000
+Matricula: 20222098765
+Salario: 2800
+Funcao Desempenhada: Tecnico Administrativo
+Departamento: Financeiro
+Carga Horaria: 40
+Data de Ingresso: 10/09/2022
+--------------------------------------------------------
+
+Tecnico N°5
+Nome: Pedro Costa
+CPF: 234.567.890-23
+Data de Nascimento: 25/05/1988
+Genero: Masculino
+Rua: Rua da Montanha
+Numero: 50
+Bairro: Vista Linda
+Cidade: Cidade Alta
+CEP: 234567-000
+Matricula: 20173023456
+Salario: 3000
+Funcao Desempenhada: Analista Financeiro
+Departamento: Financeiro
+Carga Horaria: 44
+Data de Ingresso: 15/12/2017
+--------------------------------------------------------
+

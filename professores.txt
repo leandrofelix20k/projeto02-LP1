@@ -1,0 +1,90 @@
+Maria do Cerro
+546.046.264-60
+10/05/1999
+Feminino
+Rua dos Palmares
+56
+Novo Perro
+Monte Claro
+436967-000
+20210074520
+7500
+IMD
+40
+30/05/2021
+5
+1
+Pensamento Computacional
+
+João da Silva
+512.107.562-23
+20/08/1995
+Masculino
+Rua das Flores
+435
+Centro
+Cidade Nova
+435654-000
+20220012345
+6000
+IMD
+35
+15/02/2022
+2
+1
+Linguagem de Programação I
+
+Ana Souza
+987.654.321-00
+05/12/1990
+Feminino
+Avenida do Bosques
+789
+Jardim Azul
+Natal
+047245-000
+20230035837
+10000
+IMD
+44
+02/01/2023
+3
+2
+Linguagem de Programação II
+
+Paulo Oliveira
+789.643.367-11
+25/03/1990
+Masculino
+Rua das Árvores
+30
+Bela Vista
+Cidade das Águas
+123456-000
+20190056789
+4200
+IMD
+20
+10/07/2019
+3
+2
+Bando de Dados I
+
+Fernanda Costa
+234.567.890-23
+15/05/1995
+Feminino
+Rua dos Girassóis
+90
+Sol Nascente
+Cidade da Primavera
+987654-000
+20200098765
+3800
+IMD
+20
+20/12/2020
+1
+0
+Banco de Dados II
+

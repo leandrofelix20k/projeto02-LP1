@@ -1,0 +1,80 @@
+Jõao Silveira
+325.435.752-43
+20/02/2000
+Masculino
+Rua dos Bosques
+42
+Mangues
+Natal
+345864-000
+20220067308
+1900
+RH
+40
+15/04/2022
+Tecnico Administrativo
+
+Paula Tejo da Silva
+078.463.574
+05/04/1987
+Feminino
+São Bento
+67
+Água Amarela
+Natal
+436082-000
+20190064829
+2200
+RH
+44
+20/05/2019
+Tecnico Administrativo
+
+Lucas Oliveira
+324.436.855-12
+10/10/1995
+Masculino
+Avenida Central
+20
+Centro
+Natal
+326523-000
+20221015274
+2500
+RH
+40
+05/08/2022
+Tecnico Administrativo
+
+Mariana Santos
+987.654.321-98
+15/07/1990
+Feminino
+Rua das Flores
+15
+Jardim Primavera
+Cidade Velha
+987654-000
+20222098765
+2800
+Financeiro
+40
+10/09/2022
+Tecnico Administrativo
+
+Pedro Costa
+234.567.890-23
+25/05/1988
+Masculino
+Rua da Montanha
+50
+Vista Linda
+Cidade Alta
+234567-000
+20173023456
+3000
+Financeiro
+44
+15/12/2017
+Analista Financeiro
+
